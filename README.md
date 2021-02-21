@@ -9,8 +9,9 @@
 https://github.com/Stichoza/google-translate-php
 
 ### Add to the bottom of the page
-
+```HTML
 <script src="view/javascript/translate.js" type="text/javascript"></script>
+```
 
 ### Start a service on your local server
 
