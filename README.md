@@ -21,7 +21,7 @@ sudo php --server localhost:8080 --docroot  .
 
 or
 
-Xampp,Wampp etc.
+XAMPP,WampServer etc.
 
 ### If you double click on the first input, it will automatically fill in the others.
 
